@@ -1,0 +1,22 @@
+{
+  "name": "fastnoise",
+  "version": "0.0.1",
+  "description": "Node bindings to C++ FastNoise library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auburns/FastNoise.git"
+  },
+  "author": "Avaer Kazmer <a@modules.io>",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/Auburns/FastNoise/issues"
+  },
+  "homepage": "https://github.com/Auburns/FastNoise#readme",
+  "dependencies": {}
+}

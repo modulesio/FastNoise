@@ -1,5 +1,2 @@
-*
-!FastNoise.cpp
-!FastNoise.h
-!LICENSE
-!*.md
+node_modules
+build
